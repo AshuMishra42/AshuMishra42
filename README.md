@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AshuMishra42/AshuMishra42/blob/main/namaste.png)
 <h1 align="center">Hi 👋, I'm Ankush Kumar Mishra</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
