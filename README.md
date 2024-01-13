@@ -1,4 +1,4 @@
-![logo](https://github.com/AshuMishra42/AshuMishra42/blob/main/namaste.png)
+![logo](https://github.com/AshuMishra42/AshuMishra42/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ankush Kumar Mishra</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
